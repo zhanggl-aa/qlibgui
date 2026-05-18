@@ -1,0 +1,14 @@
+artifact_uri: file:E:\trae\o1\ak04\qlib0\qlib_gui\mlruns/579637115274711591/213ec6b250384cfe978c909927e02b37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '579637115274711591'
+lifecycle_stage: active
+run_id: 213ec6b250384cfe978c909927e02b37
+run_name: mlflow_recorder
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779002414910
+status: 1
+tags: []
+user_id: '39468'

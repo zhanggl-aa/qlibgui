@@ -1,0 +1,26 @@
+# Qlib GUI 依赖
+# 核心框架
+pyqlib
+PyQt6
+pyqtgraph
+pyyaml
+joblib
+
+# 树模型
+lightgbm
+xgboost
+catboost
+scikit-learn
+
+# PyTorch 神经网络模型 (LSTM, GRU, ALSTM, MLP, Transformer, TCN, SFM, TabNet, GATs, HIST 等)
+# torch  # 已安装
+
+# TFT 模型 (TensorFlow)
+tensorflow
+
+# GATs 模型 (图神经网络)
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch-geometric

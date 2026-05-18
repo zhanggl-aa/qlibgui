@@ -1,0 +1,19 @@
+{
+  "model_id": "CatBoost",
+  "model_type": "sklearn",
+  "class_name": "CatBoostModel",
+  "module_path": "qlib.contrib.model.catboost_model",
+  "saved_at": "2026-05-17T16:29:32.835476",
+  "training_config": {
+    "model_id": "CatBoost",
+    "model_kwargs": {},
+    "dataset": "Alpha158",
+    "market": "csi300",
+    "topk": 50,
+    "n_drop": 5,
+    "account": 100000000.0,
+    "start_time": "2008-01-01",
+    "end_time": "2020-08-01"
+  },
+  "model_kwargs": {}
+}
